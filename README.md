@@ -10,9 +10,9 @@ This is quite simple, but very effective revenue and expense ledger, built accor
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ## Usage
-REL contains a few modules, each intended for different purpose.
+The main module of REL is Balance. In total view there are all data in total collected with some global statistics.
 
-### Revenues / Expenses
+### Total Balance
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 XXXXXXXXXXXXXXXXXXXXXX
