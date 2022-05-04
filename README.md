@@ -27,7 +27,7 @@ The monthly balance provides direct access to all revenues and expenses in the g
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Editing revenues/expenses
-Each revenue and expense can be edited.
+Expenses contain just values, while revenues are collections of items with given amount and price per unit.
 
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
