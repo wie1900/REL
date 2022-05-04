@@ -9,43 +9,34 @@ This is quite simple, but very effective revenue and expense ledger, built accor
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ## Usage
-The main module of REL is Balance.
+The main module of REL is Balance (Reports), the others are registers of customers/contractors and revenues/expenses.
 
 ### Total Balance
-In total view there are all data in total collected with some global statistics.
+The total balance view contains all collected data with some global statistics.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Annual Balance
-In the anual view there are monthly data listed together.
+In the anual view monthly summaries are listed together.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Monthly Balance
-Monthly balance provides irect access to all revenues and expenses in the given month, including editing and printing to PDF (for revenues only).
+The monthly balance provides direct access to all revenues and expenses in the given month. There is also editing and printing to PDF (for revenues only) possible.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Editing revenues/expenses
 Each revenue and expense can be edited.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
-### Monthly Balance
-Printing to PDF only for revenues
+### Preview / Print to PDF
+Invoices created from revenues can be previewed and printed as PDF-files.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
-
-previewed as PDF or saved as PDF with an appropriete name.
-
-XXXXXXXXXXXXXXXXXXXXXX
 
 ### Customers / Contractors
+Customers are those who buy products from us (related to revenues), while contractors are clients who sell to us (related to expenses).
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
-
-XXXXXXXXXXXXXXXXXXXXXX
-
-### Revenues / Expenses
-![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
-
-XXXXXXXXXXXXXXXXXXXXXX
 
 ## Architecture
+
 The conversion provides class _NWConv_:
 
 app \ Custom \ [NWConv.php](https://github.com/wie1900/conv/blob/main/app/Custom/NWConv.php)
@@ -54,18 +45,13 @@ The length of the input number can be extended by adding new values in the _$nam
 
 app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/blob/main/app/Http/Controllers/ConvController.php)
 
-## Tests
-The application has been tested using PHPUnit tests:
-
-tests \ Feature \ [nvconvTest.php](https://github.com/wie1900/conv/blob/main/tests/Feature/nvconvTest.php)
-
 ## What was used
 
 - Laravel
 - PHP
 - Bootstrap
 - Javascript
-- PHPUnit
+- TCPDF (PDF creating)
 
 ## Working version
 
