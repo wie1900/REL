@@ -8,6 +8,14 @@ This revenue and expense ledger is built according to polish tax law intended fo
 
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
+## Features
+
+- Adding/editing customers and contractors
+- Adding/editing revenues / expenses
+- Automatic invoicing
+- Printing to PDF
+- Total/annual/monthly balance sheets
+
 ## Usage
 The main module of REL is Balance (Reports), the others are registers of customers/contractors and revenues/expenses.
 
