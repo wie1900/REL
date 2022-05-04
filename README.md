@@ -10,10 +10,29 @@ This is quite simple, but very effective revenue and expense ledger, built accor
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ## Usage
-The main module of REL is Balance. In total view there are all data in total collected with some global statistics.
+The main module of REL is Balance.
 
 ### Total Balance
+In total view there are all data in total collected with some global statistics.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
+
+### Annual Balance
+In the anual view there are monthly data listed together.
+![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
+
+### Monthly Balance
+Monthly balance provides irect access to all revenues and expenses in the given month, including editing and printing to PDF (for revenues only).
+![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
+
+### Editing revenues/expenses
+Each revenue and expense can be edited.
+![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
+
+### Monthly Balance
+Printing to PDF only for revenues
+![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
+
+previewed as PDF or saved as PDF with an appropriete name.
 
 XXXXXXXXXXXXXXXXXXXXXX
 
