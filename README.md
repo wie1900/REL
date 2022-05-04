@@ -56,7 +56,7 @@ app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/
 - Laravel
 - PHP
 - SQLite
-- HTML/CSS + Bootstrap
+- Blade, HTML/CSS + Bootstrap
 - Javascript (Vanilla)
 - TCPDF (PDF creating)
 
