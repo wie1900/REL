@@ -22,7 +22,7 @@ In the annual view monthly summaries are listed together.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Monthly Balance
-The monthly balance provides direct access to all revenues and expenses in the given month. There is also editing and printing to PDF (for revenues only) possible.
+The monthly balance provides direct access to all revenues and expenses in the given month. In this overview there is also editing and printing to PDF (for revenues only) possible.
 
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
