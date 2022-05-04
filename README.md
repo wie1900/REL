@@ -6,9 +6,6 @@
 
 This is quite simple, but very effective revenue and expense ledger, built according to polish tax law intended for small business with a small range of customers. It offers total, yearly and monthly balance of incomes and costs and also provides invoice creation and printing to PDF.
 
-- of clients
-- revenues and expenses
-- 
 
 ## Screenshot
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
