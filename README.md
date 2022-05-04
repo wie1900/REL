@@ -49,12 +49,13 @@ app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/
 
 - Laravel
 - PHP
+- SQLite
 - Bootstrap
 - Javascript
 - TCPDF (PDF creating)
 
 ## Working version
 
-The working version is available at:
+The working version (secured with auth UI of Laravel, user: _user@user.com_, password: _user_) is available at:
 
-[https://conv.deadygo.com](https://conv.deadygo.com)
+[https://rel.deadygo.com](https://rel.deadygo.com)
