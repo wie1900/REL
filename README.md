@@ -7,7 +7,7 @@
 XXXXXXXXXXXXXXXXXXXXX.
 
 ## Screenshot
-![ntwc](https://user-images.githubusercontent.com/89514476/166660418-fbe22070-9d49-4fdd-a0d6-c33e49323049.gif)
+![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ## Usage
 Insert any number with length 1-30 digits plus 1-2 digits separated by 'dot' for tenths and hundredths (optionally), e.g. 20 or 20.99 and click _Let convert_. To clear both input fields choose _Clear fields_.
