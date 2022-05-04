@@ -4,7 +4,7 @@
 
 # Revenue and Expense Ledger
 
-This is quite simple, but very effective revenue and expense ledger, built according to polish tax law intended for small business with a small range of customers. It offers total, yearly and monthly balance of incomes and costs. REL provides also invoice creation including printing to PDF.
+This is quite simple, but very effective revenue and expense ledger, built according to polish tax law intended for small business with a small range of customers. It offers total, yearly and monthly balance of incomes/costs. REL provides also invoice creation including printing to PDF.
 
 
 ## Screenshot
