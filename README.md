@@ -13,26 +13,32 @@ The main module of REL is Balance (Reports), the others are registers of custome
 
 ### Total Balance
 The total balance view contains all collected data with some global statistics.
+
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Annual Balance
 In the anual view monthly summaries are listed together.
+
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Monthly Balance
 The monthly balance provides direct access to all revenues and expenses in the given month. There is also editing and printing to PDF (for revenues only) possible.
+
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Editing revenues/expenses
 Each revenue and expense can be edited.
+
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Preview / Print to PDF
 Invoices created from revenues can be previewed and printed as PDF-files.
+
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Customers / Contractors
 Customers are those who buy products from us (related to revenues), while contractors are clients who sell to us (related to expenses).
+
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ## Architecture
