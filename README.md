@@ -32,7 +32,7 @@ Expenses contain just values, while revenues are collections of items with given
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Preview / Print to PDF
-Invoices created from revenues can be previewed and printed as PDF-files.
+Invoices are created automatically and can be previewed or printed as PDF-files.
 
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
