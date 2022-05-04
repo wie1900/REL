@@ -17,7 +17,7 @@ The total balance view contains all collected data with some global statistics.
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
 ### Annual Balance
-In the anual view monthly summaries are listed together.
+In the annual view monthly summaries are listed together.
 
 ![home](https://user-images.githubusercontent.com/89514476/166691530-9c95d01c-b3be-4922-9c49-dce66e232545.gif)
 
