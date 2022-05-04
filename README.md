@@ -62,6 +62,6 @@ app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/
 
 ## Working version
 
-The working version (secured with auth UI of Laravel, user: _user@user.com_, password: _user_) is available at:
+The working version (secured with auth of Laravel, user: _user@user.com_, password: _user_) is available at:
 
 [https://rel.deadygo.com](https://rel.deadygo.com)
