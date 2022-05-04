@@ -41,16 +41,6 @@ Customers are those who buy products from us (related to revenues), while contra
 
 ![customs](https://user-images.githubusercontent.com/89514476/166806237-2602ed68-79b2-46fa-9e0d-df14b73cdfd0.gif)
 
-## Architecture
-
-The conversion provides class _NWConv_:
-
-app \ Custom \ [NWConv.php](https://github.com/wie1900/conv/blob/main/app/Custom/NWConv.php)
-
-The length of the input number can be extended by adding new values in the _$names_ array and changing validating rule in the controller to the appropriate value (currently: 30):
-
-app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/blob/main/app/Http/Controllers/ConvController.php)
-
 ## What was used
 
 - Laravel 9
