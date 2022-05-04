@@ -53,10 +53,10 @@ app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/
 
 ## What was used
 
-- Laravel
-- PHP
+- Laravel 9
+- PHP 8
 - SQLite
-- Blade, HTML/CSS + Bootstrap
+- Blade, HTML/CSS + Bootstrap 5
 - Vanilla Javascript
 - TCPDF
 
