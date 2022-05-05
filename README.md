@@ -81,3 +81,7 @@ Customers are those who buy products from us (related to revenues), while contra
 The working version (secured with auth of Laravel, email: _user@user.com_, password: _user_) is available at:
 
 [https://rel.deadygo.com](https://rel.deadygo.com)
+
+###Note:
+
+**In this version you can add/remove data without problems, at each loggin-in database i restored from backup.**
