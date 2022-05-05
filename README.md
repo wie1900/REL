@@ -19,6 +19,8 @@ This revenue and expense ledger is built according to polish tax law intended fo
 ## Usage
 The main module of REL is Balance Preview (Reports), the others are registers of customers/contractors and revenues/expenses.
 
+## Screenshots
+
 ### Total Balance
 The total balance view contains all collected data with some global statistics.
 
