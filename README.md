@@ -141,4 +141,4 @@ The working version (secured with auth of Laravel, email: _user@user.com_, passw
 [https://rel.deadygo.com](https://rel.deadygo.com)
 
 ### Note:
-**In this version you can change data without problem, database file is restored from the backup at each logging-in.**
+**In the version above you can change data without consequences, database file is restored from the backup at each logging-in.**
