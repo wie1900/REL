@@ -84,29 +84,3 @@ The working version (secured with auth of Laravel, email: _user@user.com_, passw
 
 ### Note:
 **In this version you can change data without problem, database file is restored from the backup at each logging-in.**
-```
-+---app
-|   +---Custom
-|   |   +---DB
-|   |   |       DatabaseRestorer.php
-|   |   |
-|   |   +---PrintDoc  
-|   |   |       Invoice.php  
-|   |   |       NumWordsConverter.php
-|   |   |       PDFBuilder.php
-|   |   |       SoldItem.php
-|   |   |       
-|   |   \---Revenues
-|   |           Ity.php
-|   |           
-|   +---Http
-|   |   +---Controllers
-|   |   |   |   BalanceController.php
-|   |   |   |   ContController.php
-|   |   |   |   Controller.php
-|   |   |   |   CustController.php
-|   |   |   |   ExpController.php
-|   |   |   |   ItemTypeController.php
-|   |   |   |   PdfController.php
-|   |   |   |   RevController.php
-```
