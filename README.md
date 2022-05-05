@@ -83,7 +83,7 @@ All database queries  and CRUD operations are located in controllers:
 |   |   |   |   PdfController.php
 |   |   |   |   RevController.php
 ```
-The application uses SQLite and the database files (used database.sqlite and backup file database_backup.sqlite) are located in the database folder:
+The application uses SQLite and the database files (used database.sqlite and database_backup.sqlite) are located in the database folder:
 ```
 +---app
 |       
