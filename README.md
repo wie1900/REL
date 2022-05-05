@@ -67,6 +67,64 @@ Customers are those who buy products from us (related to revenues), while contra
 
 ![customs](resources/assets/images/customs.gif)
 
+## Architecture
+All database queries  and CRUD operations are located in controllers:
+```
++---app
+|   |           
+|   +---Http
+|   |   +---Controllers
+|   |   |   |   BalanceController.php
+|   |   |   |   ContController.php
+|   |   |   |   Controller.php
+|   |   |   |   CustController.php
+|   |   |   |   ExpController.php
+|   |   |   |   ItemTypeController.php
+|   |   |   |   PdfController.php
+|   |   |   |   RevController.php
+```
+The application uses SQLite and the database files (used database.sqlite and backup file database_backup.sqlite) are located in the database folder:
+```
++---app
+|       
++---database
+|   |   database.sqlite
+|   |   database_backup.sqlite
+```
+Javascript source script-files (before compiling assets by Laravel Mix) are located in resources folder:
+```
++---app
+|             
++---resources
+|   |       
+|   +---js
+|   |   |   table_highlight.js
+|   |   |   
+|   |   \---revenues
+|   |           add_item.js
+|   |           del_item.js
+|   |           reorder_items.js
+|   |           set_submit.js
+|   |           show_invoices.js
+```
+Finally, all additional classes (custom types, database restorer and pdf builder) are located in Custom folder:
+```
++---app
+|   +---Custom
+|   |   +---DB
+|   |   |       DatabaseRestorer.php
+|   |   |       
+|   |   +---PrintDoc
+|   |   |       Invoice.php
+|   |   |       NumWordsConverter.php
+|   |   |       PDFBuilder.php
+|   |   |       SoldItem.php
+|   |   |       
+|   |   \---Revenues
+|   |           Ity.php
+|   |           
+```
+
 ## What was used
 
 - Laravel 9
