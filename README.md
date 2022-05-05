@@ -68,7 +68,7 @@ Customers are those who buy products from us (related to revenues), while contra
 ![customs](resources/assets/images/customs.gif)
 
 ## Architecture
-All database **queries** and **CRUD operations** are located in **controllers**:
+All database **queries** and **CRUD operations** are located in **controllers**[controllers](app/controllers):
 ```
 +---app
 |   |           
