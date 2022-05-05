@@ -83,4 +83,4 @@ The working version (secured with auth of Laravel, email: _user@user.com_, passw
 [https://rel.deadygo.com](https://rel.deadygo.com)
 
 ### Note:
-**In this version you can add/remove data without problem, database is restored from the backup at each loggin-in.**
+**In this version you can add/remove data without problem, database is restored from the backup at each logging-in.**
