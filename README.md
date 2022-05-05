@@ -17,7 +17,21 @@ This revenue and expense ledger is built according to polish tax law intended fo
 - Total/annual/monthly balance sheets
 
 ## Usage
-The main module of REL is Balance Preview (Reports), the others are registers of customers/contractors and revenues/expenses.
+In general, using the application involves working with two types of documents and balancing them. Since the program is designed for a small business, it makes sense to distinguish between clients to whom products are sold and invoiced (revenues) and clients from whom products are purchased (expenses).
+Hence, the first group is customers (related to revenues) and the second group is contractors (related to expenses).
+
+### Customers / contractors
+There are separate pages for both groups, where their list is presented. There are also options for editing and creating the appropriate type of document (Add Rev. / Add Exp.)
+
+### Revenues
+Documentation of new revenue is to add revenue for the selected customer (list on the Customers page). This document contains data from the application, customer data and a list of added items with their quantity and price.
+While adding new revenue, the program automatically displays the documents created in a given month, suggesting the next free number for an invoice.
+
+### Expenses
+Documentation of new expense is similar, but with a selected contractor (list on the Contractors page). In contrast to the revenue, the expense document contains only the total value in addition to the contractors data.
+
+### Balance sheets
+The reports page provides an overview of the total, annual and monthly balance sheet, where you can access all created documents, edit them and preview/print to PDF invoices (for revenues only).
 
 ## Screenshots
 
