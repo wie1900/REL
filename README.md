@@ -22,7 +22,7 @@ In general, using the application involves working with two types of documents a
 Hence, the first group is _Customers_ (related to _Revenues_) and the second group is _Contractors_ (related to _Expenses_).
 
 ### Customers / Contractors
-There are separate pages for both groups, where their list is presented. There are also options for editing and creating the appropriate type of document (_Add Rev._ / _Add Exp._)
+There are separate pages for both groups, where their list is presented. There are also options for editing and creating the appropriate type of document (_+Rev._ / _+Exp._)
 
 ### Revenues
 Documentation of new _Revenue_ is to add revenue for the selected customer (list on the _Customers_ page). This document contains data from the application, customer data and a list of added items with their quantity and price.
