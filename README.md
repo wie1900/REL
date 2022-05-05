@@ -91,7 +91,7 @@ The application uses SQLite and the database files (used **database.sqlite** and
 |   |   database.sqlite
 |   |   database_backup.sqlite
 ```
-Javascript **source script-files** (before compiling assets by Laravel Mix) are located in **[resources](app/resources)** folder:
+Javascript **source script-files** (before compiling assets by Laravel Mix) are located in **[resources](resources)** folder:
 ```
 +---app
 |             
