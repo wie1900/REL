@@ -68,7 +68,7 @@ Customers are those who buy products from us (related to revenues), while contra
 ![customs](resources/assets/images/customs.gif)
 
 ## Architecture
-All database queries  and CRUD operations are located in controllers:
+All database **queries** and **CRUD operations** are located in **controllers**:
 ```
 +---app
 |   |           
@@ -83,7 +83,7 @@ All database queries  and CRUD operations are located in controllers:
 |   |   |   |   PdfController.php
 |   |   |   |   RevController.php
 ```
-The application uses SQLite and the database files (used database.sqlite and database_backup.sqlite) are located in the database folder:
+The application uses SQLite and the database files (used **database.sqlite** and **database_backup.sqlite**) are located in the **database** folder:
 ```
 +---app
 |       
@@ -91,7 +91,7 @@ The application uses SQLite and the database files (used database.sqlite and dat
 |   |   database.sqlite
 |   |   database_backup.sqlite
 ```
-Javascript source script-files (before compiling assets by Laravel Mix) are located in resources folder:
+Javascript **source script-files** (before compiling assets by Laravel Mix) are located in **resources** folder:
 ```
 +---app
 |             
@@ -107,7 +107,7 @@ Javascript source script-files (before compiling assets by Laravel Mix) are loca
 |   |           set_submit.js
 |   |           show_invoices.js
 ```
-Finally, all additional classes (custom types, database restorer and pdf builder) are located in Custom folder:
+Finally, all **additional classes** (custom types, database restorer and pdf builder) are located in **Custom** folder:
 ```
 +---app
 |   +---Custom
