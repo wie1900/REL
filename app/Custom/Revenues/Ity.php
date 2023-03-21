@@ -6,7 +6,7 @@ namespace App\Custom\Revenues;
  * -------- ity -----------
  * class for collecting item data in RevController
  */
-class ity {
+class Ity {
     public int $id;
     public int $typeId;
     public $qty;
