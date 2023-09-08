@@ -135,10 +135,12 @@ Finally, all **additional classes** (custom types, database restorer and pdf bui
 - TCPDF
 
 ## Working version
-
-The working version (secured with auth of Laravel, email: _user@user.com_, password: _user_) is available at:
-
+The working version (secured with auth of Laravel) is available at:
 [https://rel.deadygo.com](https://rel.deadygo.com)
 
-### Note:
-**In the version above you can change data without consequences, database file is restored from the backup at each logging-in.**
+### Note 1
+Automatic log-in as demouser:<br/>
+[https://rel.deadygo.com/logindemo/demouser](https://rel.deadygo.com/logindemo/demouser)
+
+### Note 2
+This version of the program allows you to change data without consequences, database file is restored from the backup at each logging-in.
