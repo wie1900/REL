@@ -2,7 +2,7 @@
 
 
 
-# Revenue and Expense Ledger
+# Revenue and Expense Ledger <img src="resources/assets/images/App.png" height="70"/>
 
 This revenue and expense ledger is built according to polish tax law intended for small business with a small range of customers. It offers total, annual and monthly balance of income/costs. REL provides also invoice creation including printing to PDF.
 
